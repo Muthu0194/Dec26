@@ -1,0 +1,37 @@
+Selenium  Important situation based interview Questions
+1.How do you handle windows and tabs?
+2.How do you handle iframes?
+3.Diff between FindElement and FindElements.
+ 4.Explain Different locators in selenium
+ 5.Explain diff waits in Selenium/diff between implicit and explicit wait.
+6.How do you handle dynamic elements in Selenium WebDriver?
+7. Tell me some exceptions you have faced while writing the framework.
+ 9.Diff between driver.close() and driver.quit().
+10.Diff assertions in selenium(assert.assertEquals, assertTrue etc)
+ 11.Write a code snippet to launch Firefox browser in WebDriver.
+ 12.What are the different types of navigation commands?
+13.How do you handle mouse actions in selenium and also write me the code for that?
+14,How do you handle alerts in Selenium and also
+write me the code?
+15.How can you find if an element is displayed on the screen? (like using is Displayed, isEnabled etc)
+16. What is Page Object Model and how have you implemented in your framework and explain the same.
+17. What is Page Factory in Selenium?
+ 18.Explain the concept of Desired Capabilities and how they are used in Selenium WebDriver.
+ 19.How do you handle windows and tabs?**
+20.How do you handle iframes?**
+21.Diff between Find Element and FindElements.**
+22.Explain Different locators in selenium.**
+ 23.Explain diff waits in Selenium/diff between implicit and explicit wait.**
+24.How do you handle dynamic elements in Selenium WebDriver?**
+ 25.Tell me some exceptions you have faced while
+writing the framework.* Diff between driver.close() and driver.quit().*
+26.Diff assertions in selenium (assert.assertEquals, assertTrue, etc).**
+ 27.Write a code snippet to launch Firefox browser in WebDriver.**
+ 28.What are the different types of navigation commands?** 12) *How do you handle mouse
+ actions in selenium and also write me the code for that?*
+29.How do you handle alerts in Selenium and also write me the code?**
+30. How can you find if an element is displayed on the screen?**
+31.What is Page Object Model and how have you implemented it in your framework?
+ 32.What is Page Factory in Selenium?
+ 33.Explain the concept of Desired Capabilities and how they are used in Selenium WebDriver.
+ 34.How would you deal with flaky tests in your Selenium automation suite using TestNG?
