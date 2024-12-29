@@ -1,7 +1,7 @@
 Selenium  Important situation based interview Questions
 1.How do you handle windows and tabs?
 2.How do you handle iframes?
-3.Diff between FindElement and FindElements.
+3.Diff between FindElement and FindElement
  4.Explain Different locators in selenium
  5.Explain diff waits in Selenium/diff between implicit and explicit wait.
 6.How do you handle dynamic elements in Selenium WebDriver?
